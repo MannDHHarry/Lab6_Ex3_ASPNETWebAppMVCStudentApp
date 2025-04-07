@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_ASPNETWebAppMVCStudentApp", "Ex3_ASPNETWebAppMVCStudentApp\Ex3_ASPNETWebAppMVCStudentApp.csproj", "{B69E860F-8998-4014-8738-860E52DD43AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69E860F-8998-4014-8738-860E52DD43AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69E860F-8998-4014-8738-860E52DD43AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69E860F-8998-4014-8738-860E52DD43AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69E860F-8998-4014-8738-860E52DD43AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E38E3E1-06CD-4BCC-8F03-E8DB29366FB4}
+	EndGlobalSection
+EndGlobal
