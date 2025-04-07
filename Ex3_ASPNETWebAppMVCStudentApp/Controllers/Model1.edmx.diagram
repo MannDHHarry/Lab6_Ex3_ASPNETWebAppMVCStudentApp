@@ -13,6 +13,7 @@
         <AssociationConnector Association="Lab6_Ex3Model.FK__Courses__Departm__286302EC" ManuallyRouted="false" />
         <AssociationConnector Association="Lab6_Ex3Model.FK__Enrollmen__Cours__2D27B809" ManuallyRouted="false" />
         <AssociationConnector Association="Lab6_Ex3Model.FK__Enrollmen__Stude__2E1BDC42" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Lab6_Ex3Model.tblUser" Width="1.5" PointX="0.75" PointY="6.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
